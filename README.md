@@ -5,3 +5,8 @@
 I'm a Full-Stack software engineer with 15 years of experience. I'm passionate about making clean and scalable software.
 
 I love working with with .Net Technology stack (C#, ASP .NET, Azure, SQL Server) - but I also enojoy learning new stuff like: Angular, Python, Ruby.
+
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![JJ's github stats](https://github-readme-stats.vercel.app/api?username=jjantoniofranco&show_icons=true&theme=dracula)
