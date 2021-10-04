@@ -2,9 +2,11 @@
 
 <img src="https://github.com/jjantoniofranco/jjantoniofranco/blob/main/img/siliconvalley_banner3.jpg" />
 
-I'm a Full-Stack software engineer with 15 years of experience. I'm passionate about making clean and scalable software.
+Sr Software Engineer and Architect specialized in .Net technologies. Have over 15 years of experience working in the Software Development industry, involving in every phase during the software life cycle.
 
-I love working with with .Net Technology stack (C#, ASP .NET, Azure, SQL Server) - but I also enojoy learning new stuff like: Angular, Python, Ruby.
+Have redesigned the architecture of monolithic applications to distributed environments. Lead teams to adopt Agile principles and DevOps best practices.
+
+Extensive experience designing Relational Databases and improving the performance of existing reporting processes.
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
