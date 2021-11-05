@@ -18,4 +18,5 @@ Extensive experience designing Relational Databases and improving the performanc
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![JJ's github stats](https://github-readme-stats.vercel.app/api?username=jjantoniofranco&show_icons=true&theme=dracula)
+![JJ's github stats](https://github-readme-stats.vercel.app/api?username=jjantoniofranco&show_icons=true&theme=dracula&count_private=true)
+)
