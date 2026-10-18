@@ -1,8 +1,7 @@
 # Hi, I'm JJ :wave:
 
-[![GitHub](https://img.shields.io/badge/-@jjantoniofranco-%23181717?style=flat-square&logo=github)](https://github.com/jjantoniofranco)
-[![LinkedIn](https://img.shields.io/badge/-antonioffranco-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonioffranco/)
-[![](https://vistr.dev/badge?repo=jjantoniofranco.jjantoniofranco&corners=square)](https://github.com/jjantoniofranco/vistr.dev)
+[![GitHub](https://img.shields.io/badge/-@jjantoniofranco-%23181717?style=flat-square&logo=github)](https://github.com/jjantoniofranco) 
+[![in](https://img.shields.io/badge/in-Antonio%20Franco-blue?style=flat)](https://www.linkedin.com/in/antonioffranco/)
 
 <img src="https://github.com/jjantoniofranco/jjantoniofranco/blob/main/img/siliconvalley_banner3.jpg" />
 
